@@ -97,10 +97,6 @@ tr:nth-child(odd){
 
 @media screen and (max-width: 850px) {
     main{
-        width: 80%;
-        background-color: aliceblue;
-        max-width: 1200px;
-        margin: auto;
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-template-areas: 
@@ -113,10 +109,6 @@ tr:nth-child(odd){
 
 @media screen and (max-width: 500px) {
     main{
-        width: 80%;
-        background-color: aliceblue;
-        max-width: 1200px;
-        margin: auto;
         display: grid;
         grid-template-columns: 1fr;
         grid-template-areas: 
